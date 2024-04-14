@@ -1,2 +1,2 @@
 # CPracticumAttestation
-WETUIOP
+C++ Practicum Attestation (Exercise 5)
